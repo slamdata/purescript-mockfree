@@ -1,0 +1,32 @@
+{
+  "name": "purescript-mockfree",
+  "description": "A purely-functional, strongly-typed functional mocking library for Free programs",
+  "authors": [
+    "John A. De Goes <john@degoes.net>"
+  ],
+  "license": "Apache 2",
+  "version": "0.1.0",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-profunctor-lenses": "^1.0.0-rc.1",
+    "purescript-free": "^1.0.0-rc.1",
+    "purescript-console": "^v1.0.0-rc.1",
+    "purescript-either": "^v1.0.0-rc.1",
+    "purescript-maybe": "^1.0.0-rc.1",
+    "purescript-foldable-traversable": "^1.0.0-rc.1",
+    "purescript-monoid": "^1.0.0-rc.2",
+    "purescript-bifunctors": "^1.0.0-rc.1",
+    "purescript-invariant": "^1.0.0-rc.1",
+    "purescript-prelude": "^1.0.0-rc.4",
+    "purescript-control": "^1.0.0-rc.1",
+    "purescript-transformers": "^1.0.0-rc.1"
+  }
+}
